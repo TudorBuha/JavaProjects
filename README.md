@@ -1,1 +1,1 @@
-# JavaProjects
+# All my JavaScript projects
