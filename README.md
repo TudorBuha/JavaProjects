@@ -1,1 +1,0 @@
-# All my JavaScript projects
