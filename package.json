@@ -1,12 +1,12 @@
 {
   "name": "pacanele",
   "version": "1.0.0",
-  "description": "",
+  "description": "First version of slots in js having UI in node js. ",
   "main": "project.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Buha Tudor",
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
